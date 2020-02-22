@@ -1,0 +1,5 @@
+---
+- name: Check that the movie exists
+  uid: 197946b1-9b80-4e90-8365-cfa966482e6c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
