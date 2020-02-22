@@ -25,7 +25,6 @@ class Actionwords:
         # movie_details_query = '{}/movie/{}?api_key={}'.format(BASE_URL, movie_id, API_KEY)
         # response = get(url=movie_details_query)
 
-
     @staticmethod
     def check_that_the_movie_doesnt_exist():
         full_request_url = '{}&query={}'.format(SEARCH_MOVIE_QUERY, NON_EXISTING_MOVIE)
