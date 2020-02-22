@@ -9,8 +9,6 @@ NON_EXISTING_MOVIE = 'pavelzagalsky'
 SEARCH_MOVIE_QUERY = '{}/search/movie?api_key={}'.format(BASE_URL, API_KEY)
 
 
-# https://api.themoviedb.org/3/movie/603?api_key=3386c5875b2a009399b57b928eb7b2e5
-
 class Actionwords:
     def __init__(self, test):
         self.test = test
